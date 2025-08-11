@@ -21,4 +21,3 @@ This is a full-stack web application that helps job seekers optimize their resum
 -   **File Parsing**: `pdfplumber`, `python-docx`
 -   **File Generation**: `python-docx`, `reportlab`
 
-## Project Structure
